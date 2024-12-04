@@ -1,8 +1,7 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-  --bg-color: #226831;
+  --bg-color: #222831;
   --primary-color: #DDDDDD;
   --secundary-color: #F05454;
   --font: Grandstander;
